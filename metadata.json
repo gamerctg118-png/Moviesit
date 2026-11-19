@@ -1,0 +1,8 @@
+{
+  "name": "Moviesit",
+  "description": "A modern movie discovery and personal video streaming platform powered by TMDB API, personal JSON libraries, HTML5 playback, and Capacitor Android support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
